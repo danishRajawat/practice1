@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "Name": "qasaman Billah",
+        "artist": "Adam Ali",
+        "Img": "./public/image/qasamnBillah.webp",
+        "song": "./public/songs/Qasaman Billah ᴴᴰ (Eng Subs)  آدم علي - قسما بالله  Adam Ali.mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 2,
+        "Name": "Kun Faya Kun",
+  
+        "Img": "./public/image/kun faya kun.jpg",
+        "song": "./public/songs/Kun Faya Kun .mp3"
+    },
+    {
+        "id": 3,
+        "Name": "Humne Ankhon Se Dekha ",
+        "artist": " Abu Ubayda",
+        "Img": "./public/image/humne ankhon.jpg",
+        "song": "./public/songs/Humne Ankhoon Se _ Abu ubayda.mp3"
+    }
+    
+]
